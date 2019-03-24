@@ -1,0 +1,24 @@
+{
+  "part": [
+    {
+      "name": "Corsair Vengeance LPX 16GB DDR4 DIMM 3200 MHz/16 (2x8GB)",
+      "price": 149
+    },
+    {
+      "name": "Kingston HyperX FURY 16GB DDR3 DIMM 1866 MHz Zwart (2x8GB)",
+      "price": 129
+    },
+    {
+      "name": "Corsair Vengeance LPX 16 GB DDR4 DIMM 3000 MHz/15 Zwart (2x8GB)",
+      "price": 148.99
+    },
+    {
+      "name": "Kingston HyperX FURY 16GB DDR3 DIMM 1600 MHz Zwart (2x8GB)",
+      "price": 129.95
+    },
+    {
+      "name": "G.Skill Ripjaws V - DIMM 288-PIN (2x8GB)",
+      "price": 139
+    }
+  ]
+}

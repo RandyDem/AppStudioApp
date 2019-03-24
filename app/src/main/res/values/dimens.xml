@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="overview_header_text_size">48dp</dimen>
+    <dimen name="overview_cell_part_type_font_size">32dp</dimen>
+    <dimen name="overview_cell_font_size">20dp</dimen>
+    <dimen name="overview_cell_padding">8dp</dimen>
+
+    <dimen name="part_picker_header_text_size">48dp</dimen>
+</resources>

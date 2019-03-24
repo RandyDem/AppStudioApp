@@ -1,0 +1,24 @@
+{
+  "part": [
+    {
+      "name": "MSI MPG Z390 GAMING PLUS",
+      "price": 152.99
+    },
+    {
+      "name": "Asus ROG Maximus X Hero",
+      "price": 279
+    },
+    {
+      "name": "Asus Prime X470-PRO",
+      "price": 183.95
+    },
+    {
+      "name": "Gigabyte Z390 UD",
+      "price": 137.99
+    },
+    {
+      "name": "Asus ROG STRIX Z390-F Gaming",
+      "price": 239
+    }
+  ]
+}

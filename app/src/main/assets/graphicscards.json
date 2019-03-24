@@ -1,0 +1,24 @@
+{
+  "part": [
+    {
+      "name": "Gigabyte GeForce RTX 2070 WINDFORCE 8G",
+      "price": 539
+    },
+    {
+      "name": "Gigabyte RTX 2080 GAMING OC 8G",
+      "price": 839
+    },
+    {
+      "name": "MSI GeForce GTX 1080 Gaming 8G",
+      "price": 655
+    },
+    {
+      "name": "Gigabyte GeForce GTX 1070 G1 Gaming",
+      "price": 489
+    },
+    {
+      "name": "Asus ROG Strix RX VEGA64 O8G Gaming",
+      "price": 529
+    }
+  ]
+}

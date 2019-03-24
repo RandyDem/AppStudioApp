@@ -1,0 +1,24 @@
+{
+  "part": [
+    {
+      "name": "Intel Core i5 9600K",
+      "price": 293
+    },
+    {
+      "name": "AMD Ryzen 7 2700X",
+      "price": 349
+    },
+    {
+      "name": "AMD Ryzen 7 2700",
+      "price": 274.99
+    },
+    {
+      "name": "Intel Core i7 7700 Kaby Lake",
+      "price": 339
+    },
+    {
+      "name": "AMD Ryzen 5 2600",
+      "price": 175.99
+    }
+  ]
+}

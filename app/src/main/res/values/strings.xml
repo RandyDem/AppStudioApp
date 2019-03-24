@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppStudioApp</string>
+    <string name="overview_header_title">Build</string>
+
+
+    <string-array name="motherboard_list">
+        <item name="MSI MPG Z390 GAMING PLUS" price="">152,99</item>
+        <item name="Asus ROG Maximus X Hero">279</item>
+        <item name="Asus Prime X470-PRO">183,95</item>
+        <item name="Gigabyte Z390 UD">137,99</item>
+        <item name="Asus ROG STRIX Z390-F Gaming">239</item>
+    </string-array>
+
+    <string-array name="memory_list">
+        <item name=""></item>
+    </string-array>
+</resources>
