@@ -10,8 +10,6 @@ import android.widget.TextView;
 
 import com.example.appstudioapp.Adapters.PartListAdapter;
 
-import java.io.Serializable;
-
 public class PartPickerActivity extends AppCompatActivity {
 
     int selectedItem = -1;

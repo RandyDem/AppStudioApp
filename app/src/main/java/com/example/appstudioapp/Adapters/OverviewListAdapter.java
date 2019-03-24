@@ -8,12 +8,11 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 import com.example.appstudioapp.ComputerBuild;
-import com.example.appstudioapp.MainActivity;
 import com.example.appstudioapp.R;
 
 public class OverviewListAdapter extends BaseAdapter {
 
-    Context context;
+    private Context context;
     private LayoutInflater inflater;
 
 
@@ -53,7 +52,7 @@ public class OverviewListAdapter extends BaseAdapter {
         name.setText(ComputerBuild.getInstance().getAllParts().get(position).getPartChosen());
         double amount = ComputerBuild.getInstance().getAllParts().get(position).getPartPrice();
         if(amount != 0){
-            price.setText(ComputerBuild.getInstance().getAllParts().get(position).getPartPrice()+"");
+            price.setText(ComputerBuild.getInstance().getAllParts().get(position).getPartPrice() + "");
         }
 
         return v;

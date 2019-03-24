@@ -21,9 +21,9 @@ import java.util.ArrayList;
 public class PartListAdapter extends BaseAdapter {
 
     private LayoutInflater inflater;
-    Context context;
-    PartType type;
-    ArrayList<ComputerPart> partArrayList;
+    private Context context;
+    private PartType type;
+    private ArrayList<ComputerPart> partArrayList;
 
     public PartListAdapter(Context context, PartType type){
         this.context = context;
